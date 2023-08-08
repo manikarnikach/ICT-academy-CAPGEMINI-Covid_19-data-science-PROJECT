@@ -47,7 +47,7 @@ This project is licensed under the MIT License.
 
 
 I hope this helps!
-GitHub Repository:
+GitHub Repository:https://github.com/manikarnikach/ICT-academy-CAPGEMINI-Covid_19-data-science-PROJECT
 The entire project, including the Jupyter Notebook containing the data analysis code, data files, and other related resources, is available in the GitHub repository. Feel free to explore the code and documentation to gain insights into my data analysis process.
 
 Link to GitHub Repository: 
